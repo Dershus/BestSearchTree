@@ -1,0 +1,6 @@
+﻿  Node.cpp
+c:\users\g2050\onedrive\桌面\bst\bst\node.h(18): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'node' 的左方
+  main.cpp
+c:\users\g2050\onedrive\桌面\bst\bst\node.h(18): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'node' 的左方
+  正在產生程式碼...
+  BST.vcxproj -> C:\Users\g2050\OneDrive\桌面\BST\Debug\BST.exe
